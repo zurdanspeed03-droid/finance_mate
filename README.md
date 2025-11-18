@@ -44,8 +44,10 @@ Semua transaksi menggunakan widget custom `TransactionItem`.
 
 ---
 
+## 📸 **Tampilan Aplikasi**
+
 ### 🖥 Dashboard (Screenshot 1)
-![Dashboard Screen 1](assets/screenshot/dasboard1.png)
+<img src="https://raw.githubusercontent.com/zurdanspeed03-droid/finance_mate/main/assets/screenshot/dasboard1.png" width="350">
 
 ### 🖥 Dashboard (Screenshot 2)
-![Dashboard Screen 2](assets/screenshot/dasboard2.png)
+<img src="https://raw.githubusercontent.com/zurdanspeed03-droid/finance_mate/main/assets/screenshot/dasboard2.png" width="350">
