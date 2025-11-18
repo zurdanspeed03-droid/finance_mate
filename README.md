@@ -44,10 +44,10 @@ Semua transaksi menggunakan widget custom `TransactionItem`.
 
 ---
 
-## 📸 **Tampilan Aplikasi**
+## 📱 **Tampilan Aplikasi**
 
-### 🖥 Dashboard (Screenshot 1)
-<img src="assets/screenshot/dasboard1.png" width="350">
+### 📊 Dashboard (Screenshot 1)
+<img src="assets/screenshot/dabsoard1.png" width="350"/>
 
-### 🖥 Dashboard (Screenshot 2)
-<img src="assets/screenshot/dasboard2.png" width="350">
+### 📊 Dashboard (Screenshot 2)
+<img src="assets/screenshot/dabsoard2.png" width="350"/>
